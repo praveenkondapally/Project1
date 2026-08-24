@@ -1,0 +1,7 @@
+hello-javascript/
+├── src/
+│   └── main/
+│       └── javascript/
+│           └── hello.js
+├── pom.xml
+└── Jenkinsfile
